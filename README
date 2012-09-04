@@ -1,0 +1,14 @@
+Description
+===========
+
+Contains TextMate themes that will be used in Sublime Text 2 editor
+These themes are not in the default Sublime installation
+
+You can download more themes from http://textmatetheme.com/
+And also from https://github.com/redcar/redcar/tree/master/assets/textmate/Themes
+
+
+Installation
+============
+
+Go to /usr/lib/Sublime Text 2/Pristine Packages (or wherever you had Sublime installed) and drop the themes inside the Color Scheme - Default.sublime-package package. That is it.
